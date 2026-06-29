@@ -12,13 +12,6 @@ Building enterprise automation solutions, intelligent workflows, and operational
 
 <div align="center">
 
-<a href="https://github.com/HeannaReis?tab=followers">
-  <img alt="followers" title="GitHub Followers" src="https://custom-icon-badges.herokuapp.com/github/followers/HeannaReis?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-</a>
-
-<a href="https://github.com/HeannaReis">
-  <img alt="views" title="GitHub Profile Views" src="https://komarev.com/ghpvc?username=HeannaReis&style=for-the-badge"/>
-</a>
 
 </div>
 
